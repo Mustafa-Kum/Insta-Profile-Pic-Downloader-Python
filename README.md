@@ -1,1 +1,3 @@
-# Insta-Profile-Pic-Downloader
+# Usage
+
+ python .\InstaLoader.py after enter profile name
